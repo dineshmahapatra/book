@@ -1,9 +1,9 @@
 --- 
-title: "My First Book"
+title: "My Thesis"
 author: "Dinesh Mahapatra"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
 
-# Down the rabbit-hole
+# Land Titling
 
